@@ -1,0 +1,3 @@
+/Users/jiabin/X/Annee3/P1/image/TP2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jiabin/X/Annee3/P1/image/TP2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jiabin/X/Annee3/P1/image/TP2/cmake-build-debug/CMakeFiles/canny.dir
